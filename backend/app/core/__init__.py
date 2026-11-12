@@ -1,0 +1,3 @@
+"""
+BuildHer Backend - Core Package
+"""
